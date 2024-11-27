@@ -12,6 +12,9 @@ The project is particularly useful for tasks such as:
 - **Text-based recommendation systems**.
 
 ---
+**Dataset**: https://studentuml-my.sharepoint.com/:u:/g/personal/svarrajankumar_patel_student_uml_edu/ER9ocuVQx7xAmDeAmEYxpJoBfc-5ogpgF0tyG-h3_D5wvA?e=sakAMK
+
+---
 
 ## **Features**
 - **Sentence Tokenization**: Breaks plots into individual sentences for better handling of context.
